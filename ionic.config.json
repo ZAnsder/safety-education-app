@@ -1,0 +1,8 @@
+{
+  "name": "safety-education-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c22fd8ad"
+}
