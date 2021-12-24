@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.265" height="22.465" viewBox="0 0 20.265 22.465">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fe781d;
+      }
+
+      .cls-2 {
+        fill: #626165;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="路径_94" data-name="路径 94" class="cls-1" d="M8-153.876H25.963s.842-1.016-1.7-3.26A53.969,53.969,0,0,0,17.119-162l-8.142,5.567S7.956-156.067,8-153.876Z" transform="translate(-8 162)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="路径_96" data-name="路径 96" class="cls-2" d="M17.229-143.718H3.251a3.26,3.26,0,0,1-3.143-3.36v-11.186a3.426,3.426,0,0,1,1.551-2.9l7.257-4.556a2.962,2.962,0,0,1,3.262.05l6.721,4.507a3.4,3.4,0,0,1,1.474,2.847v11.235A3.26,3.26,0,0,1,17.229-143.718ZM10.508-164.23a1.633,1.633,0,0,0-.857.244l-7.257,4.432a1.782,1.782,0,0,0-.835,1.518v10.883a1.729,1.729,0,0,0,1.692,1.76H17.229a1.729,1.729,0,0,0,1.692-1.76v-10.931a1.768,1.768,0,0,0-.793-1.491l-6.721-4.385A1.647,1.647,0,0,0,10.508-164.23Z" transform="translate(-0.108 166.183)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="路径_98" data-name="路径 98" class="cls-2" d="M55.469-54.419H46.455a.838.838,0,0,1-.837-.837.838.838,0,0,1,.837-.837h9.014a.838.838,0,0,1,.837.837A.837.837,0,0,1,55.469-54.419Z" transform="translate(-45.618 56.093)"/>
+    </clipPath>
+  </defs>
+  <g id="组_1097" data-name="组 1097" transform="translate(-28.496 -750.863)">
+    <g id="组_701" data-name="组 701" class="cls-3" transform="translate(29.597 751.446)">
+      <path id="路径_93" data-name="路径 93" class="cls-1" d="M3-167H22.287v9.519H3Z" transform="translate(-3.595 166.302)"/>
+    </g>
+    <g id="组_702" data-name="组 702" class="cls-4" transform="translate(28.496 750.863)">
+      <path id="路径_95" data-name="路径 95" class="cls-2" d="M-4.892-171.183H16.581v23.86H-4.892Z" transform="translate(4.288 170.485)"/>
+    </g>
+    <g id="组_703" data-name="组 703" class="cls-5" transform="translate(33.284 766.224)">
+      <path id="路径_97" data-name="路径 97" class="cls-2" d="M40.618-61.093H52.7v3.07H40.618Z" transform="translate(-41.315 60.395)"/>
+    </g>
+  </g>
+</svg>

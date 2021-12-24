@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.954" height="20.093" viewBox="0 0 25.954 20.093">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #626165;
+      }
+
+      .cls-2 {
+        fill: #fe781d;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="路径_45" data-name="路径 45" class="cls-1" d="M444.981-131.907a12.676,12.676,0,0,1-9.1-3.648,16.642,16.642,0,0,1-3.652-5.423,2.93,2.93,0,0,1,.039-2.338,16.782,16.782,0,0,1,3.729-5.2A12.747,12.747,0,0,1,444.908-152a12.933,12.933,0,0,1,8.955,3.472,17.117,17.117,0,0,1,3.81,5.193,2.925,2.925,0,0,1,.056,2.374,16.643,16.643,0,0,1-3.657,5.42A12.673,12.673,0,0,1,444.981-131.907ZM433.8-141.654c1,2.431,4.105,8.086,11.178,8.086s10.167-5.646,11.173-8.072a1.274,1.274,0,0,0-.024-1.033c-1.1-2.33-4.387-7.751-11.22-7.751s-10.033,5.42-11.092,7.75A1.289,1.289,0,0,0,433.8-141.654Z" transform="translate(-432 152)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="路径_49" data-name="路径 49" class="cls-2" d="M496.744-104.512A4.749,4.749,0,0,1,492-109.256,4.75,4.75,0,0,1,496.744-114a4.75,4.75,0,0,1,4.744,4.744A4.75,4.75,0,0,1,496.744-104.512Z" transform="translate(-492 114)"/>
+    </clipPath>
+  </defs>
+  <g id="组_1095" data-name="组 1095" transform="translate(0)">
+    <g id="组_36" data-name="组 36" class="cls-3" transform="translate(0)">
+      <path id="路径_44" data-name="路径 44" class="cls-1" d="M427-157h27.349v21.488H427Z" transform="translate(-427.698 156.302)"/>
+    </g>
+    <g id="组_38" data-name="组 38" class="cls-4" transform="translate(8.372 5.302)">
+      <path id="路径_48" data-name="路径 48" class="cls-2" d="M487-119h10.884v10.884H487Z" transform="translate(-487.698 118.302)"/>
+    </g>
+  </g>
+</svg>
